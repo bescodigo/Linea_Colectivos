@@ -11,6 +11,7 @@ void menu(int *opcion){
 	
 	system("cls");
 	
+	
 }
 
 
